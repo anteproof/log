@@ -1,0 +1,11 @@
+{
+  "date": "2026-10-08",
+  "generated_at": "2026-10-08T00:20:40.505564+00:00",
+  "head_hash": "b72924e80c97634f90d3d086bc963e8f462be63b236abf567b93cf0ba5f0e99b",
+  "head_id": 13060,
+  "max_issued_at": "2026-10-07T16:32:17.110436+00:00",
+  "n_forecasts": 13060,
+  "prev_receipt": "2026-10-07.json",
+  "prev_receipt_sha256": "2801944105b917e76e69abd9c0369233d852da42bca1f8febe8be8e38fb0f490",
+  "schema": "anteproof-receipt/1"
+}
